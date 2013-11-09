@@ -10,6 +10,8 @@ import org.w3c.dom.Node;
 import java.io.File;
   
 public class readXMLFile {
+	
+	//@cecile : test commit
   
     private static int nbEnfants;
 	private static String str;
